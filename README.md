@@ -1,13 +1,13 @@
 <div align="center">
   
-  <h2>👾 Indie Developer 👾</h2>
+  <h2>🚀 Fullstack Developer 🚀</h2>
 
   <br />
 
   <h3>🛠 Languages & Tools</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,visualstudio,unity,godot" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=angular,nodejs,ts,js,mongodb,tailwind,html,css,git" alt="My Skills" />
     </a>
   </p>
 
